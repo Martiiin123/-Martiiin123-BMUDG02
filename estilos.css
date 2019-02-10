@@ -1,0 +1,28 @@
+header
+{
+	background: #2c3e50; 
+	color : white;
+	text-align: center;
+}
+
+.col-md-2
+{
+	color : white;
+	background: #2c3e50; 
+}
+.col-md-1
+{
+	
+	background: #2c3e50; 
+}
+
+#blanco
+{
+	 background-color:white ;
+}
+
+#azul
+{
+	background: #2c3e50; 
+	color : white;
+}
